@@ -3,4 +3,4 @@ module-whatis "plink"
 module-whatis "Version: 1.07"
 module-whatis "Description: plink"
 
-prepend-path PATH /frazer01/software/plink-1.07-x86_64/plink
+prepend-path PATH /frazer01/software/plink-1.07-x86_64

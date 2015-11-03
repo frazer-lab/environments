@@ -3,5 +3,4 @@ module-whatis "vcftools"
 module-whatis "Version: 0.1.14"
 module-whatis "Description: vcftools"
 
-prepend-path PATH /frazer01/software/vcftools-0.1.14/bin/
-
+prepend-path PATH /frazer01/software/vcftools-0.1.14/bin
