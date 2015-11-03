@@ -1,0 +1,28 @@
+#%Module1.0
+module-whatis "cardips"
+module-whatis "Version: 1"
+module-whatis "Description: Software collection for CARDiPS project"
+
+module add EPACTS/3.2.6
+module add GATK/3.4-46
+module add R/3.1.1
+module add biobambam2/2.0.21 
+module add git/2.6.2         
+module add subread/1.5.0
+module add blat/287          
+module add htslib/1.2.1      
+module add rsem/1.2.20       
+module add vcftools/0.1.14
+module add bwa/0.7.12        
+module add igvtools/2.3.55   
+module add sambamba/0.5.9    
+module add weblogo/2.8.2
+module add STAR/2.4.2a       
+module add picard/1.140      
+module add samtools/1.2
+module add bcftools/1.2      
+module add fastqc/0.11.4     
+module add snpEff/4_1l
+module add bedtools/2.25.0   
+module add fastx/0.0.14      
+module add plink/1.07
