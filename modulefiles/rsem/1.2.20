@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "rsem"
+module-whatis "Version: 1.2.20"
+module-whatis "Description: RSEM"
+
+prepend-path PATH /frazer01/software/rsem-1.2.20

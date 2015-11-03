@@ -1,0 +1,8 @@
+#%Module1.0
+module-whatis "R"
+module-whatis "Version: 3.1.1"
+module-whatis "Description: R statistical computing"
+
+prepend-path PATH /frazer01/software/R-3.1.1/bin
+prepend-path LDFLAGS -Wl,-rpath,/frazer01/software/R-3.1.1/lib64/R/lib
+prepend-path LD_LIBRARY_PATH /frazer01/software/R-3.1.1/lib64/R/lib

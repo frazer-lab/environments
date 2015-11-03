@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "root"
+module-whatis "Version: 5.34.20"
+module-whatis "Description: root cern environment"
+
+puts stdout "source /frazer01/software/root-5.34.20/bin/thisroot.sh;"
+

@@ -1,0 +1,10 @@
+#%Module1.0
+module-whatis "bwa"
+module-whatis "Version: 0.7.12"
+module-whatis "Description: bwa"
+
+prepend-path PATH /frazer01/software/bwa-0.7.12/bwa
+
+
+
+

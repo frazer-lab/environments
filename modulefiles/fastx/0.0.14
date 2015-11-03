@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "fastx"
+module-whatis "Version: 0.0.14"
+module-whatis "Description: fastqx toolkit"
+
+prepend-path PATH /frazer01/software/fastx_toolkit-0.0.14/bin/
+

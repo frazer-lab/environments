@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "igvtools"
+module-whatis "Version: 2.3.55"
+module-whatis "Description: igvtools"
+
+prepend-path PATH /frazer01/software/igvtools_2.3.55/igvtools
+

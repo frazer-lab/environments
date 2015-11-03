@@ -1,0 +1,9 @@
+#%Module1.0
+module-whatis "biobambam2"
+module-whatis "Version: 2.0.21"
+module-whatis "Description: biobambam2"
+
+prepend-path PATH /frazer01/software/biobambam2-2.0.21/bin
+
+
+

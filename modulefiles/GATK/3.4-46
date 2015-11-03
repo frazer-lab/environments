@@ -1,0 +1,12 @@
+#%Module1.0
+module-whatis "GATK"
+module-whatis "Version: 1.140"
+module-whatis "Description: GATK"
+
+prepend-path PATH /frazer01/software/GenomeAnalysisTK-3.4-46/GenomeAnalysisTK.jar
+
+
+
+
+
+

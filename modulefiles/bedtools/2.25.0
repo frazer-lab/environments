@@ -1,0 +1,8 @@
+#%Module1.0
+module-whatis "bedtools"
+module-whatis "Version: 2.25.0"
+module-whatis "Description: bedtools toolset"
+
+prepend-path PATH /frazer01/software/bedtools-2.25.0/bin
+
+

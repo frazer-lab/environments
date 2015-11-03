@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "subread"
+module-whatis "Version: 1.5.0"
+module-whatis "Description: subread"
+
+prepend-path PATH /frazer01/software/subread-1.5.0-Linux-x86_64/bin/
+
