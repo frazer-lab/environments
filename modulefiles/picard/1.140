@@ -3,9 +3,4 @@ module-whatis "picard"
 module-whatis "Version: 1.140"
 module-whatis "Description: picard tools"
 
-prepend-path PATH /frazer01/software/picard-tools-1.140
-
-
-
-
-
+setenv picard /frazer01/software/picard-tools-1.140/picard.jar
