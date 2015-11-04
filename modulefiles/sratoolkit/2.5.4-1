@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "sratoolkit"
+module-whatis "Version: 2.5.4-1"
+module-whatis "Description: sratoolkit"
+
+prepend-path PATH /software/sratoolkit.2.5.4-1-centos_linux64/bin

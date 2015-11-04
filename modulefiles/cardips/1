@@ -28,3 +28,5 @@ module add snpEff/4_1l
 module add bedtools/2.25.0   
 module add fastx/0.0.14      
 module add plink/1.07
+module add ucsc.linux
+module add sratoolkit
