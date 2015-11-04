@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "ucsc.linux"
+module-whatis "Version: 20151103"
+module-whatis "Description: UCSC executables downloaded on 11/3/2015."
+
+prepend-path PATH /software/ucsc.linux.x86_64.20151103

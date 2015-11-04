@@ -4,7 +4,3 @@ module-whatis "Version: 287"
 module-whatis "Description: blat"
 
 prepend-path PATH /frazer01/software/blat.linux.x86_64.v287
-
-
-
-
