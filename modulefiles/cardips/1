@@ -3,6 +3,8 @@ module-whatis "cardips"
 module-whatis "Version: 1"
 module-whatis "Description: Software collection for CARDiPS project"
 
+puts stderr "Loading CARDiPS pipeline version 1"
+
 module add EPACTS/3.2.6
 module add GATK/3.4-46
 module add R/3.1.1
