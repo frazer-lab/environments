@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "speedseq"
+module-whatis "Version: 20151103"
+module-whatis "Description: speedseq build from Git on 20151103"
+
+prepend-path PATH /frazer01/software/speedseq-20151103/bin
+
