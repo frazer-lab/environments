@@ -161,12 +161,14 @@ dependencies:
   - backports.ssl-match-hostname==3.4.0.2
   - biopython==1.66
   - blaze==0.8.3
+  - cdpybio (/frazer01/repos/cardips-pipelines/submodules/cdpybio)==0.0.1
   - distribute==0.7.3
   - htseq==0.6.1
   - ipython-genutils==0.1.0
   - jupyter-client==4.1.1
   - jupyter-console==4.0.3
   - jupyter-core==4.0.6
+  - pipelines (/frazer01/repos/cardips-pipelines/submodules/pipelines)==0.1.0
   - pybedtools==0.7.1
   - pysam==0.8.3
   - pyvcf==0.6.7
