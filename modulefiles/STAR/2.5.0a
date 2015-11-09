@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "STAR"
+module-whatis "Version: 2.5.0a"
+module-whatis "Description: STAR"
+
+prepend-path PATH /frazer01/software/STAR-STAR_2.5.0a/bin/Linux_x86_64
