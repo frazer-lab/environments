@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "Vim"
+module-whatis "Version: 7.4"
+module-whatis "Description: Vim Editor from Git 20151105"
+
+prepend-path PATH /frazer01/software/vim-20151105/bin
+
