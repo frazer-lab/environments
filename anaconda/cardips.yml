@@ -168,6 +168,7 @@ dependencies:
   - jupyter-client==4.1.1
   - jupyter-console==4.0.3
   - jupyter-core==4.0.6
+  - macs2==2.1.0.20150731
   - pipelines (/frazer01/repos/cardips-pipelines/submodules/pipelines)==0.1.0
   - pybedtools==0.7.1
   - pysam==0.8.3
