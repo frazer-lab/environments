@@ -1,0 +1,8 @@
+#%Module1.0
+module-whatis "R"
+module-whatis "Version: 3.2.2-cardips"
+module-whatis "Description: R statistical computing"
+
+prepend-path PATH /frazer01/software/R-3.2.2-cardips/bin
+prepend-path LDFLAGS -Wl,-rpath,/frazer01/software/R-3.2.2-cardips/lib64/R/lib
+prepend-path LD_LIBRARY_PATH /frazer01/software/R-3.2.2-cardips/lib64/R/lib
