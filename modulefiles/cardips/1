@@ -7,7 +7,7 @@ puts stderr "Loading CARDiPS pipeline version 1"
 
 module add EPACTS/3.2.6
 module add GATK/3.4-46
-module add R/3.1.1
+module add R/3.2.2-cardips
 module add biobambam2/2.0.21 
 module add git/2.6.2         
 module add subread/1.5.0
