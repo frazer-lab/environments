@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "HOMER"
+module-whatis "Version: 4.7_cardips"
+module-whatis "Description: HOMER 4.7 for CARDiPS pipeline and project. Please don't alter reference files."
+
+prepend-path PATH /software/homer_4.7_cardips/bin
