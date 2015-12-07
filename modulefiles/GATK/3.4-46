@@ -1,6 +1,6 @@
 #%Module1.0
 module-whatis "GATK"
-module-whatis "Version: 1.140"
+module-whatis "Version: 3.4-46"
 module-whatis "Description: GATK"
 
 setenv GATK /frazer01/software/GenomeAnalysisTK-3.4-46/GenomeAnalysisTK.jar

@@ -4,4 +4,4 @@ module-whatis "Version: 20151103"
 module-whatis "Description: speedseq build from Git on 20151103"
 
 prepend-path PATH /frazer01/software/speedseq-20151103/bin
-
+prepend-path PYTHONPATH /usr/local/pysam27/0.8.3
