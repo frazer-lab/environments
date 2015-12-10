@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "convert_bdg2bw"
+module-whatis "Version: 1.0"
+module-whatis "Description: convert_bdg2bw, this is a home-developed command"
+
+prepend-path PATH /frazer01/software/convert_bdg2bw_v1.0
+
