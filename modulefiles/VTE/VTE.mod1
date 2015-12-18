@@ -1,0 +1,12 @@
+#%Module1.0
+module-whatis "VTE"
+module-whatis "Version: 1"
+module-whatis "Description: software collection for VTE project"
+
+puts stderr "Loading VTE pipeline version 1"
+
+module add git/2.6.2
+module add EPACTS/3.2.6
+module add R/3.2.2
+module add vcftools/0.1.14
+module add bedtools/2.25.0
