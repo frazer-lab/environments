@@ -3,4 +3,5 @@ module-whatis "snpEff"
 module-whatis "Version: 4_1l"
 module-whatis "Description: snpEff"
 
-prepend-path PATH /frazer01/software/snpEff_v4_1l_core/
+setenv snpeff /software/snpEff_v4_1l_core/snpEff.jar
+setenv snpeff /software/snpEff_v4_1l_core/SnpSift.jar
