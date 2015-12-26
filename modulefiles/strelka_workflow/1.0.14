@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "strelka_workflow"
+module-whatis "Version: 1.0.14"
+module-whatis "Description: strelka_workflow"
+
+prepend-path PATH /frazer01/software/strelka_workflow-1.0.14
