@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "GeneTorrent"
+module-whatis "Version: 3.8.7-207"
+module-whatis "Description: GeneTorrent includes cgquery, gtdownload, gtocheck and gtoinfo."
+
+prepend-path PATH /frazer01/software/GeneTorrent-download-3.8.7-207-CentOS6.4.x86_64/bin
