@@ -31,3 +31,4 @@ module add plink/1.07
 module add ucsc.linux
 module add sratoolkit
 module add homer/4.7_cardips
+module add bowtie2/2.2.6
