@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "polytest"
+module-whatis "Version: confidential"
+module-whatis "Description: polytest confidential software"
+
+prepend-path PATH /frazer01/projects/VTE/Software/polytest
