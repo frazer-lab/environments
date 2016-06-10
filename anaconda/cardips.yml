@@ -161,7 +161,7 @@ dependencies:
   - backports.ssl-match-hostname==3.4.0.2
   - biopython==1.66
   - blaze==0.8.3
-  - cdpipelines==0.0.4
+  - cdpipelines==0.0.5
   - cdpybio==0.0.7
   - distribute==0.7.3
   - htseq==0.6.1
