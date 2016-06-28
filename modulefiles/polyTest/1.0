@@ -1,0 +1,8 @@
+#%Module1.0
+module-whatis "polyTest"
+module-whatis "Version: 1.0"
+module-whatis "Description: polytest confidential software"
+
+prepend-path PATH /frazer01/projects/VTE/Software/polytest
+prepend-path PATH /frazer01/projects/VTE/Software/polytest/polyTest
+prepend-path PATH /frazer01/projects/VTE/Software/polytest/Eigen

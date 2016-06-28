@@ -10,3 +10,4 @@ module add EPACTS/3.2.6
 module add R/3.2.2
 module add vcftools/0.1.14
 module add bedtools/2.25.0
+module add polytest/1.0

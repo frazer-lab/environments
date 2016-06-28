@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "Madeline2"
+module-whatis "Version: 2.0"
+module-whatis "Description: Madeline2 Pedigree Drawing Engine"
+
+prepend-path PATH /frazer01/software/Madeline_2.0_PDE/src/
+

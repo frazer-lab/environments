@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "HLA-VBSeq"
+module-whatis "Downloaded: June 14th 2016"
+module-whatis "Description: HLA-VBSeq"
+
+setenv HLA_VBSeq /software/HLA-VBseq_d16.06.14/HLAVBSeq.jar

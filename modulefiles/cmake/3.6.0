@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "cmake"
+module-whatis "Version: 3.6.0"
+module-whatis "Description: cmake"
+
+prepend-path PATH /software/cmake-3.6.0-rc2-Linux-x86_64/bin
