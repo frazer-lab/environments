@@ -1,0 +1,10 @@
+#%Module1.0
+module-whatis "seq2hal"
+module-whatis "Version: 1"
+module-whatis "Description: Dependencies for seq2hla"
+
+puts stderr "Loading seq2hla"
+
+module add R/2.12.2
+module add bowtie/0.12.7
+setenv seq2hla /software/seq2HLAv2.2/seq2HLA.py
