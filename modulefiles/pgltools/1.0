@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "pgltools"
+module-whatis "Version: 1.0"
+module-whatis "Description: pgltools for Hi-C"
+
+prepend-path PATH /frazer01/software/pgltools/sh
+
