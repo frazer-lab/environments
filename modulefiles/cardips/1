@@ -15,7 +15,7 @@ module add blat/287
 module add htslib/1.2.1      
 module add rsem/1.2.20       
 module add vcftools/0.1.14
-module add bwa/0.7.12        
+module add bwa/0.7.15
 module add igvtools/2.3.55   
 module add sambamba/0.6.5
 module add weblogo/2.8.2
