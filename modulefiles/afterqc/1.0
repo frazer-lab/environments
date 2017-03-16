@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "afterqc"
+module-whatis "Version: 1.0"
+module-whatis "Description: AfterQC pipeline for read filtering from github.com/OpenGene/AfterQC"
+
+prepend-path PATH /frazer01/software/afterqc/
+

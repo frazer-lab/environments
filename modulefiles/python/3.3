@@ -1,0 +1,9 @@
+#%Module1.0
+module-whatis "Python"
+module-whatis "Version: 3.3.6"
+module-whatis "Description: Python"
+
+prepend-path PATH /frazer01/software/python-3.3.6/bin
+prepend-path LDFLAGS -Wl,-rpath,/frazer01/software/python-3.3.6/lib
+prepend-path CPATH /frazer01/software/python-3.3.6/include 
+prepend-path PYTHONPATH /frazer01/software/python-3.3.6/lib/python3.3
