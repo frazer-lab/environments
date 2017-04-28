@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "speedseq"
+module-whatis "Version: 20170419"
+module-whatis "Description: speedseq build from Git on 20170419"
+
+prepend-path PATH /frazer01/software/speedseq-20170419/bin
+prepend-path PYTHONPATH /usr/local/pysam27/0.8.3

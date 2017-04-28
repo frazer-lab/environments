@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "Hapcut 2"
+module-whatis "Version: 1.0"
+module-whatis "Description: phasing VCFs with Hi-C"
+
+prepend-path PATH /software/hapcut2/build
+
