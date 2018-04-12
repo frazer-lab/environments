@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "Nextflow"
+module-whatis "Version: 0.28.0"
+module-whatis "Description: workflow management software"
+
+prepend-path PATH /frazer01/software/Nextflow/
+
