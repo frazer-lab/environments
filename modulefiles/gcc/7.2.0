@@ -1,0 +1,8 @@
+#%Module1.0
+module-whatis "Gcc"
+module-whatis "Version: 7.2.0"
+module-whatis "Description: GCC Compiler"
+
+prepend-path PATH /frazer01/software/gcc-7.2.0/bin
+prepend-path LD_LIBRARY_PATH /frazer01/software/gcc-7.2.0/lib64:/frazer01/software/gcc-7.2.0/lib:/frazer01/software/gmp-7.2.0/lib:/frazer01/software/mpc-0.8.1/lib:/frazer01/software/mpfr-2.4.2/lib
+
