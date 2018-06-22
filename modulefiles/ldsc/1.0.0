@@ -1,0 +1,7 @@
+#%Module1.1
+module-whatis "lsdc"
+module-whatis "Version: 1.0.0"
+module-whatis "Description: https://github.com/bulik/ldsc"
+
+prepend-path PATH /frazer01/software/ldsc-1.0.0/
+

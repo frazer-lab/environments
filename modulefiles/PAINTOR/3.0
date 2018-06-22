@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "PAINTOR"
+module-whatis "Version: 3.0"
+module-whatis "Description: https://github.com/gkichaev/PAINTOR_V3.0"
+
+prepend-path PATH /frazer01/software/PAINTOR_V3.0/
+
