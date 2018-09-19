@@ -4,4 +4,5 @@ module-whatis "Version: 0.28.0"
 module-whatis "Description: workflow management software"
 
 prepend-path PATH /frazer01/software/Nextflow/
+prepend-path PATH /frazer01/software/jdk1.8.0_111/bin/
 

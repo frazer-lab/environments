@@ -1,0 +1,6 @@
+#%Module1.0
+module-whatis "SLIDE"
+module-whatis "Version: 1.0"
+module-whatis "Description: SLIDE MVN hypothesis correction suite"
+
+prepend-path PATH /frazer01/software/slide-1.0.4

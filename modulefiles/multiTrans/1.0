@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "multiTrans"
+module-whatis "Version: 1.0"
+module-whatis "Description: multiTrans LMM multiple hypothesis correction suite"
+
+prepend-path PATH /frazer01/software/MultiTrans/
+prepend-path PATH /frazer01/software/slide-1.0.4
