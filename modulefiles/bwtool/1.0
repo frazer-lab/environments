@@ -1,0 +1,7 @@
+#%Module1.0
+module-whatis "bwtool"
+module-whatis "Version: 1.0"
+module-whatis "Description: bwtool for working with wig and bigwig files"
+
+prepend-path PATH /frazer01/software/bwtool/
+
